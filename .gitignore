@@ -129,7 +129,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-/celery_django/varib_mail.py
 
 # Spyder project settings
 .spyderproject
